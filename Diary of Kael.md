@@ -1,4 +1,6 @@
-
+---
+share: "true"
+---
 
 ![[./Media/Maps/map1.png|405]]
 
@@ -27,7 +29,7 @@ We see something.
 
 Nothing we want to be near. In the center sits an ancient being. It emits a feeling of fear, dread. It is pale, it doesn't even appear to be alive. 
 
-<img align="left" width="350"  style="padding-right: 10px;" src="Media/Creatures/ancient%20wolf.jpg">The being sees us move and transforms into a large albino wolf. All teeth and claws and not looking at all friendly at our intrusion. It lunges at us in a full on attack. There is no way we can outrun it. We must stand our ground. 
+<img align="left" width="350"  style="padding-right: 10px;" src="Media/Creatures/ancient wolf.jpg">The being sees us move and transforms into a large albino wolf. All teeth and claws and not looking at all friendly at our intrusion. It lunges at us in a full on attack. There is no way we can outrun it. We must stand our ground. 
 
 I swing as the beast charges at us but it's too quick and dodges out the way. It leaps over both of us and turns to attack. Setting its sights on Valerya. It slashes wildly but Valerya is too quick and the beast misses.
 
